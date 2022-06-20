@@ -1,0 +1,20 @@
+﻿#=============================================
+#		INSTALACION
+#=============================================
+#
+#	Extraer tar.gz		
+#	tar xvzf archivo.tar.gz
+#
+#	Extraer tar.bz2		
+#	tar xvjf archivo.tar.bz2
+#
+#	Archivo ejecute	
+#	chmod +x nombre_archivo
+#
+#	Instalar paquete.deb
+#	sudo dpkg -i paquete.deb
+#
+#	Desinstalar paquete.deb
+#	sudo apt-get remove paquete
+#
+#=============================================

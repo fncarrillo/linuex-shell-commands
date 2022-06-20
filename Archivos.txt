@@ -1,0 +1,18 @@
+﻿#==============================================
+#	ARCHIVOS & DIRECTORIOS
+#==============================================
+#
+#	Crear un archivo:	
+#	touch nombre_archivo
+#
+#	Eliminar archivo:	
+#	rm nombre_archivo
+#
+#	Crear carpeta:		
+#	mkdir nombre_carpeta
+#
+#	Eliminar carpeta:	
+#	rmdir nombre_carpeta
+#	rm -r nombre_carpeta:
+#
+#==============================================
