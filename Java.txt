@@ -1,0 +1,43 @@
+#================================
+#	JAVA
+#================================
+#
+#-------Instalacion
+#	sudo apt install default-jre default-jdk
+#
+#-------Chequear version
+#
+#	JDK:
+#	javac --version
+#
+#	JRE JVM
+#	java --version
+#
+#-------Configurar Variable entorno
+#
+#	sudo update-alternatives --list java
+#	sudo nano /etc/environment
+#
+#	Setear la ubicacion del jdk
+#	Ejemplo: JAVA_HOME="/usr/lib/jvm/java-11-openjdk-i386/"
+#
+#	source /etc/environment
+#
+#-------Compilar 
+#
+#	javac archivo.java
+#
+#-------Ejecutar
+#
+#	java archivo
+#
+#-------Crear proyecto MAVEN
+#
+#	mvn archetype:generate
+#
+#	groupId: id del proyecto 	com.proyecto
+#	artifactId: nombre version jar	nombre
+#	version: nro.version 		(1.0)
+#	package: paquete principal	com.proyecto.app
+#
+#=================================
