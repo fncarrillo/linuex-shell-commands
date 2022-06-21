@@ -35,9 +35,27 @@
 #
 #	mvn archetype:generate
 #
-#	groupId: id del proyecto 	com.proyecto
+#	groupId: id del proyecto	com.proyecto
 #	artifactId: nombre version jar	nombre
-#	version: nro.version 		(1.0)
+#	version: nro.version		(1.0)
 #	package: paquete principal	com.proyecto.app
+#
+#-------Compilar y Ejecutar proyecto MAVEN
+#	
+#	mvn clean
+#	Limpiar .class y descargar librerias indicadas en las dependencias
+#	
+#	mvn compile
+#	Compilar proyecto
+#
+#	mvn test-compile
+#	Compilar tests
+#
+#	mvn test
+#	Ejecutar tests
+#
+#	mvn install
+#	Generar archivo .jar
+#
 #
 #=================================
